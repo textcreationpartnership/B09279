@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ireland.  By the Commissioners of the common-wealth of England, for the affairs of Ireland. It is ordered and declared, that the officer for the time being, commanding in chief the forces within every respective precinct, and the Commissioners of the revenue there, or any three or more of them, whereof the said chief officer to be one, shall and may, and are hereby authorized to inform themselves, of such persons that are popish recusants or Irish within their respective precincts that by former declarations are to be removed into Connaught and the county of Clare.</title>
+            <author>Ireland. Commissioners of the Common-wealth of England for the Affairs of Ireland.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09279</idno><idno type="EEBO-CITATION">69648689</idno>
+  <idno type="VID">184942</idno>
+  <idno type="EEBO-PROQUEST">2240864086</idno>
+  
+            <idno type="OCLC"> 69648689</idno>
+            <idno type="STC">Wing I341A</idno>
+            <idno type="STC">ESTC R178597</idno>
+            <idno type="OCLC">69648689</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09279)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184942)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2881:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ireland.  By the Commissioners of the common-wealth of England, for the affairs of Ireland. It is ordered and declared, that the officer for the time being, commanding in chief the forces within every respective precinct, and the Commissioners of the revenue there, or any three or more of them, whereof the said chief officer to be one, shall and may, and are hereby authorized to inform themselves, of such persons that are popish recusants or Irish within their respective precincts that by former declarations are to be removed into Connaught and the county of Clare.</title>
+                  <author>Ireland. Commissioners of the Common-wealth of England for the Affairs of Ireland.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by VVilliam Bladen,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>Anno Dom. 1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and first lines of text.</note>
+                  <note>Reproduction of original in: Library Company of Philadelphia.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  1649-1660 --  Sources.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Sources.</term>
+               <term type="genre_form">Broadsides --  Ireland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:184942:1"/>
+            <head>IRE-<figure>
+                  <figDesc>coat of arms of the Commonwealth of England, circa 1653</figDesc>
+               </figure>LAND</head>
+            <head type="sub">¶ By the Commissioners of the Common-wealth of <hi>England,</hi> for the Affairs of <hi>Ireland.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>T is Ordered and Declared, That the Officer for the time being, commanding in chief the Forces within eve<g ref="char:EOLhyphen"/>ry respective Precinct, and the Commissioners of the Revenue there, or any three or more of them, whereof the said chief Officer to be one, shall and may, and are hereby authorized to inform themselves, of such persons that are Popish Recusants or Irish within their respective Precincts that by former Declarations are to be remo<g ref="char:EOLhyphen"/>ved into <hi>Connaught</hi> and the County of <hi>Clare,</hi> whom they shall judge fitting and necessary to be dispenced withall for their said removing and transplantation; And to that end, they are hereby authorized to send for all parties and Witnesses, and to examine such Witnesses as are Protestants and Persons of credit upon Oath (which Oath they are hereby authorized to administer) and such Evidence as they shall find to be material, to set the same down in writing. And if upon due proof and evidence appearing before them, they shall judge any such Persons fit or necessary to be dispenced with<g ref="char:EOLhyphen"/>all as abovesaid, they are to certifie such Persons, and the Reasons of such dispensations, and the proofs inducing them thereunto unto the said Commissioners of the Common-wealth, at or before the Tenth day of <hi>May</hi> now next ensuing. And in the mean time, they shall, and may, and are hereby authorized to give Dispensations and Licences to all such Persons respectively, under their Hands, for their stay until the first day of <hi>Iune</hi> now next ensuing, and no longer; to the end that upon return made of such Per<g ref="char:EOLhyphen"/>sons and their Conditions, and the said proofs and evidence, the said Commissioners of the Common-wealth may give further Order and directions therein as shall be just and fitting. And in such dispensations to be given as abovesaid, the Persons are to be described by their Age, Stature, Colour of Hair, and quality or condition. And all such Persons as shall be so dispenced with, and have such Certificates in writing, shall and may, and are hereby authorized to stay within the Provinces of <hi>Leinster, Munster,</hi> and <hi>Vlster,</hi> until the said first day of <hi>Iune,</hi> and no longer, without further order or direction from the said Commissioners of the Common-wealth, or the Commander in Chief of the Army and Forces in this Nation. Provided alwaies, that no dispensation be by the said Officer commanding in chief in the Precinct, and Commissioners of Revenue as abovesaid granted to any Person whatsoever, but to such Persons as are under some of the Qualifications hereafter mentioned: That is to say,</p>
+            <p>First, To Persons weak and infirm by age, sickness, lameness, and such like infirmities, whereby they are or shall be in danger, or peril of their lives in case they shall be transplanted.</p>
+            <p>Secondly, To Persons not having been of any the Councels with the <hi>Irish</hi> Rebels, nor of their Armies, nor took their Oaths of Association, but having lived alwaies peaceably and quietly towards the <hi>English</hi> and <hi>Protestants,</hi> have at any time done any emi<g ref="char:EOLhyphen"/>nent service in discovering of the Rebels, or in aiding and assisting the <hi>English</hi> Army and their parties, or have sheltred and protected any <hi>English,</hi> or <hi>Protestants</hi> from being Murthered and destroyed by the <hi>Irish</hi> Rebels.</p>
+            <p>Thirdly, To Persons that have, or shall give any good and sufficient Evidence, and Testimony of their real renouncing the Popish Superstitions, especially of the Masse, and the Supremacy of the Pope and Bishop of <hi>Rome;</hi> and also their desire, and willingness to hear such as shall and may better instruct them in the true and saving knowledge of Iesus Christ, his Gospel and Truths.</p>
+            <p>Provided also, That such Persons so to be dispenced withal, having any real Estate in any County, or City within the Provinces of <hi>Leinster, Munster</hi> on <hi>Vlster,</hi> shall not be adjudged, deemed, or taken to be Proprietors, or to continue the enjoyment of all, or any part of his or their said real Estates in the said Provinces. But such part of his or their real Estates as by the Act of settlement he or they are Declared to enjoy, he and they are to have satisfaction for the same in Lands in the Province of <hi>Connaught,</hi> or County of <hi>Clare.</hi> And the Commissioners sitting at <hi>Loughreah</hi> that are authorized to proceed in such cases, are hereby authorized and requi<g ref="char:EOLhyphen"/>red, upon application made to them by any on the behalf of such Persons, so to be dispenced with as abovesaid, to assign and set out such Lands unto them and their Assigns, in <hi>Connaught</hi> and <hi>Clare,</hi> as by Orders and Rules given unto them, they are to set out unto others that are, or shall be actually transplanted, and to permit the Agents, Servants, and Assigns of such Persons so to be dispenced with, to enjoy the same, they behaving themselves as they ought to do. But as to their holdings and being in any of the Provinces of <hi>Leinster, Munster</hi> &amp; <hi>Vlster,</hi> such Persons as are so to be dispenced withal as abovesaid, shall, and may enjoy such Lands as shall be ne<g ref="char:EOLhyphen"/>cessary for their relief, and support as Tenants to the Common-wealth, and not in their own Right, paying Contribution, and such reasonable Rents for the same, as the Commissioners of the Revenue in the respective Precincts shall judge most fitting, and for the most advantage of the Common-wealth; which they are to enjoy, during the time they shall be dispenced with for their said trans<g ref="char:EOLhyphen"/>planting as abovesaid.</p>
+            <p>And it is further Ordered and Declared, That no Person whatsoever, who is by the late Declarations required to remove into <hi>Connaught</hi> or <hi>Clare,</hi> at, or before the first day of <hi>May</hi> next, and hath, or shall present his Petition to be dispenced with, for his trans<g ref="char:EOLhyphen"/>plantation, may, (upon pretence of attending for an Answer to the same) plead that for his staying longer, or not removing by the time limmited as aforesaid; unless such Person upon due proof as aforesaid, shall be adjudged worthy of dispensation, whereof all whom it may concern are to take notice.</p>
+            <closer>
+               <dateline>
+                  <hi>Dated at</hi> DUBLIN, <date>
+                     <hi>the</hi> 27. <hi>of</hi> March. 1654.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Charles Fleetwood.</hi>
+                     </item>
+                     <item>
+                        <hi>Edm. Ludlowe.</hi>
+                     </item>
+                     <item>
+                        <hi>Miles Corbet.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Jones.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="license" subtype="order_to_print">
+            <p>
+               <hi>Ordered by the said Commissioners, That this Declaration be forthwith Printed and Published.</hi>
+            </p>
+            <closer>
+               <signed>Signed by Order, <hi>&amp;c.</hi> IOHN HUGHES.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>❧ DUDLIN, Printed by VVILLIAM BLADEN, <hi>Anno Dom.</hi> 1654.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
